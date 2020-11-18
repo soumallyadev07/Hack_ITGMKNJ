@@ -1,13 +1,4 @@
-#### TEAM NAME 
 # ITGMKNJ
-
-
-
-## Team Members
-#### Chetan Bansal
-#### Kajal Goel
-#### Soumallya Dev
-
 
 
 ## Project Scope
