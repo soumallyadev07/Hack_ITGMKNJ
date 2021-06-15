@@ -5,13 +5,6 @@
 * A simple, fast yet efficient and easy-to-use program to scrape any government website with maximum effectiveness and precision to the level according to the user's satisfaction.
 * A clean and manageable API to search through the extracted and cleaned data.
 
-
-
-## Project Video
-
-https://drive.google.com/file/d/1isJXGWf9jEIPkovuaGDGGsN2Dn0vsTCs/view?usp=sharing
-
-
 ## Installation (Dependencies)
 
 ```bash
